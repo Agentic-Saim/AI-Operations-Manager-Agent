@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # 🤖 AI Operations Manager Agent
 ### **OpsManager** — 24/7 Autonomous Workflow Intelligence Platform
@@ -106,7 +106,7 @@ OpsManager Application
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/m-shamim09/AI-Operations-Manager-Agent
+git clone https://github.com/agentic-saim09/AI-Operations-Manager-Agent
 cd AI-Operations-Manager-Agent
 
 # 2. Install dependencies
@@ -163,8 +163,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author & Contact
 
-- **Author:** Muhammad Shamim
-- **GitHub:** [@m-shamim09](https://github.com/m-shamim09)
-- **Email:** [mshamim.work@gmail.com](mailto:mshamim.work@gmail.com)
-- **Profile:** https://github.com/m-shamim09
+- **Author:** Agentic Saim
+- **GitHub:** [@agentic-saim09](https://github.com/agentic-saim09)
+- **Email:** [agenticsaim.work@gmail.com](mailto:agenticsaim.work@gmail.com)
+- **Profile:** https://github.com/agentic-saim09
 
